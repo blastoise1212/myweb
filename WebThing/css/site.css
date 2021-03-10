@@ -1,0 +1,144 @@
+body
+{
+	background-color: #3A3E37;
+}
+header
+{
+	background-color: green;
+	height: 50px;
+	text-align: center;
+	font-size: 2em;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+.head
+{
+	border: 2px black solid;
+	height: 46px;
+}
+.Kingdra
+{
+	text-align: center;	
+	
+	
+}
+.Garchomp
+{
+	text-align: center;	
+	
+}
+.Sceptile
+{
+	text-align: center;	
+	
+}
+.Critdra
+{
+		height: 275px;
+		background-color: green;
+		margin-top: 20px;
+		
+		
+}
+.Chompy
+{
+		height: 275px;
+		background-color: green;
+		margin-top: 20px;
+		
+		
+		
+}
+.Geico
+{
+		height: 275px;
+		background-color: green;
+		margin-top: 20px;
+		
+		
+		
+}
+.critdraBuild
+{
+	height: 125px;
+	background-color: green;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	
+}
+.chompyBuild
+{
+	height: 125px;
+	background-color: green;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	
+}
+.geicoBuild
+{
+	height: 125px;
+	background-color: green;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.container_12
+{
+	background-color: white;	
+}
+.paraCr
+{
+	padding: 5px;
+	height: 261px;
+	border: 2px black solid;
+}
+.paraCh
+{
+	padding: 5px;
+	height: 261px;
+	border: 2px black solid;
+}
+.paraG
+{
+	padding: 5px;
+	height: 261px;
+	border: 2px black solid;
+}
+.paraCr2
+{
+	padding: 5px;
+	height: 111px;
+	border: 2px black solid;
+}
+.paraCh2
+{
+	padding: 5px;
+	height: 111px;
+	border: 2px black solid;
+}
+.paraG2
+{
+	padding: 5px;
+	height: 111px;
+	border: 2px black solid;
+}
+nav
+{
+		margin: 0 20px 0 20px;
+		text-align: left;
+		line-height: 200%;
+		
+		
+}		
+nav li
+{
+		
+		display: inline;
+		list-style-type: none;
+		padding-right: 20px;
+		vertical-align: middle;
+		padding-left: 10px;
+}	
+nav li a
+{
+	color: green;
+}	
